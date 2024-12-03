@@ -2,6 +2,9 @@
 
 A simple and lightweight customer feedback system built with PHP and MySQL that allows businesses to collect customer experiences and ratings.
 
+
+![Student Login Preview](assets/img/preview.png)
+
 ## Features
 
 - Simple and clean interface
